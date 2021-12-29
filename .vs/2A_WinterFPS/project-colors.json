@@ -10,7 +10,12 @@
       "ProjectGuid": "a0f8b677-ff83-8b02-d756-c5eac376b6d0",
       "DisplayName": "Assembly-CSharp",
       "ColorIndex": 0
+    },
+    "f2805256-bdae-77ab-64f3-a489cef941ae": {
+      "ProjectGuid": "f2805256-bdae-77ab-64f3-a489cef941ae",
+      "DisplayName": "fps.Gameplay",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
